@@ -60,7 +60,7 @@ params:
           title: Vivek Kandimalla
           subtitle: "Hello! I am fourth year PhD student in Economics at the Indian Institute of Management Bangalore.
           My research interests span across International Trade, Economic Geography and Macro Development."
-          imageUrl: "IMG_20240625_141615-EDIT.jpg"
+          imageUrl: "IMG_20240627_114714~2.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Vivek
@@ -84,7 +84,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: saivivek.kandimalla21@iimb.ac.in 
+          url: mailto:saivivek.kandimalla21@iimb.ac.in 
         # - name: CV
         #   url: cv.pdf
         # - name: Google Scholar

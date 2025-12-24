@@ -10,7 +10,7 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
+menus:
     main:
        # - name: Books
        #   url: books/

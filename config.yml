@@ -99,10 +99,10 @@ params:
           url: https://x.com/vivek_kandi
         - name: Bluesky
           url: https://bsky.app/profile/vivek-kandi.bsky.social
-	- name: LinkedIn
-	  url: https://www.linkedin.com/in/vivek-kandimalla/
-	- name: Blogger
-	  url: https://musingsofvivek.blogspot.com/
+	#- name: LinkedIn
+	#  url: https://www.linkedin.com/in/vivek-kandimalla/
+	#- name: Blogger
+	#  url: https://musingsofvivek.blogspot.com/
 
 
     assets:

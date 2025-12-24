@@ -10,10 +10,8 @@ pagination:
 taxonomies:
     tag: tags
 
-menus: []
-
 menu:
-    main:
+    main: []
        # - name: Books
        #   url: books/
        #   weight: 5 

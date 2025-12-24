@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Sai Vivek Kandimalla
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+       # - name: Books
+       #   url: books/
+       #   weight: 5 
+       # - name: Papers
+       #   url: papers/
+       #   weight: 2
+       # - name: Courses
+       #   url: courses/
+       #   weight: 3
+       # - name: Data
+       #   url: data/
+       #   weight: 4 
+       # - name: Blog
+       #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Sai Vivek Kandimalla's curriculum vitae, research papers, and contact information."
+    author: Vivek Kandimalla
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,50 +54,56 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Vivek Kandimalla
+          subtitle: "Hello! I am a fifth-year PhD student in Economics at the Indian Institute of Management Bangalore. My research interests span across International Trade, Economic Geography, and Macro Development."
+          imageUrl: "DSC09986_2.JPG"
+          imageWidth: 300
+          imageHeight: 300
+          imageTitle: Vivek
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          #  - name: Papers
+          #    url: papers/
+          #  - name: Data
+          #    url: data/
+          #  - name: Books
+          #    url: books/
+          #  - name: Courses
+          #    url: courses/
+          #  - name: Tags
+          #    url: tags/
+          #  - name: Archive
+          #    url: archive/
+          #  - name: Blog
+          #    url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv_vivek.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:saivivek.kandimalla21@iimb.ac.in
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
+        #- name: Location
+        #  url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        #- name: GitHub
+        #  url: https://github.com/pmichaillat
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        #- name: YouTube
+        #  url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/vivek_kandi
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/vivek-kandi.bsky.social
+	- name: LinkedIn
+          url: https://www.linkedin.com/in/vivek-kandimalla/
+        - name: Blogger
+          url: https://musingsofvivek.blogspot.com/
+
 
     assets:
         disableScrollBarStyle: true

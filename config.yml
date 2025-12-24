@@ -100,7 +100,7 @@ params:
         - name: Bluesky
           url: https://bsky.app/profile/vivek-kandi.bsky.social
 	- name: LinkedIn
-          url: https://www.linkedin.com/in/vivek-kandimalla/
+          url: https://www.linkedin.com/in/vivek-kandimalla
         - name: Blogger
           url: https://musingsofvivek.blogspot.com/
 

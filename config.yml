@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "vivek-kandimalla.github.io" 
 title: Sai Vivek Kandimalla
 theme: PaperMod
 
@@ -10,7 +10,7 @@ pagination:
 taxonomies:
     tag: tags
 
-menus:
+menu:
     main:
        # - name: Books
        #   url: books/

@@ -99,8 +99,7 @@ params:
           url: https://x.com/vivek_kandi
         - name: Bluesky
           url: https://bsky.app/profile/vivek-kandi.bsky.social
-		- name: LinkedIn
-		  url: https://musingsofvivek.blogspot.com/
+		  
     assets:
         disableScrollBarStyle: true
     cover:

@@ -55,7 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Vivek Kandimalla
-          subtitle: "Hello! I am a fifth-year PhD student in Economics at the Indian Institute of Management Bangalore. My research interests span across International Trade, Economic Geography, and Macro Development."
+          subtitle: "Hello! I am a fifth-year PhD student in Economics at the Indian Institute of Management Bangalore. My research interests are spatial economics and macroeconomic development with a focus on quantitative trade models to examine issues related to India's internal trade and related policies."
+          # My research interests span across International Trade, Economic Geography, and Macro Development
           # His research interests are spatial economics and macroeconomic development with a focus on quantitative trade models to examine issues related to India's internal trade and related policies. 
           imageUrl: "DSC09986_3.JPG"
           imageWidth: 150

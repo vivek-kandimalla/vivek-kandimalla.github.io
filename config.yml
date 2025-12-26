@@ -62,7 +62,7 @@ params:
           imageBorderRadius: 0
           imageWidth: 150
           imageHeight: 150
-          shape: square
+          imageshape: square
           imageTitle: Vivek
           buttons:
           #  - name: Papers

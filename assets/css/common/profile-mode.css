@@ -4,27 +4,82 @@
     justify-content: left;
 }
 .main .profile {
-    align-items: center;
-    min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
+    align-items: flex-start;
+    min-height: 0;
     font-size: var(--homesize);
     line-height: var(--lineheight);
-    padding: var(--gap);
+    padding: var(--gap) var(--gap) calc(var(--gap) * 2);
 }
 
 .profile .profile_inner {
     display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.profile .profile_left {
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 10px;
+    gap: 12px;
+    flex-shrink: 0;
+}
+
+.profile .profile_left .social-icons {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 250px;
+    justify-content: space-evenly;
+}
+
+.profile .profile_left .social-icons a {
+    padding: 6px 6px 6px 0px;
+}
+
+.profile .profile_left .social-icons a svg {
+    height: 22px;
+    width: 22px;
+}
+
+.profile .profile_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.profile .profile_text span p {
+    margin: 0 0 1em 0;
+}
+
+.profile .profile_text span p:last-child {
+    margin-bottom: 0;
+}
+
+.profile .profile_links {
+    margin-top: 1em;
+}
+
+.profile .profile_links p {
+    margin: 0 0 0.4em 0;
+}
+
+.profile_text a {
+    color: #1a6bb5;
+    text-decoration: underline;
 }
 
 .profile .profile_inner h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .profile img {
-    border-radius: 50%;
+    border-radius: 0;
     border: 1px solid var(--tertiary);
+    display: block;
+    max-width: none;
+    width: 250px;
+    height: auto;
 }
 
 .buttons {

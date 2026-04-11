@@ -82,6 +82,27 @@
     height: auto;
 }
 
+@media screen and (max-width: 600px) {
+    .profile .profile_inner {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile .profile_left {
+        align-items: center;
+    }
+
+    .profile .profile_left .social-icons {
+        width: 200px;
+    }
+
+    /* override theme's scale(0.85) at 768px and reset to explicit size */
+    .profile img {
+        width: 200px;
+        transform: none;
+    }
+}
+
 .buttons {
     flex-wrap: wrap;
 }

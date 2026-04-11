@@ -2,3 +2,11 @@
 public/
 resources/
 .hugo_build.lock
+
+# Local-only photos (source/intermediate — not deployed)
+static/DSC09986.JPG
+static/DSC09986_1.JPG
+static/DSC09986_1.jpeg
+static/DSC09986_crop.jpg
+static/DSC09986_2.JPG
+static/DSC09986_3.JPG

@@ -48,6 +48,10 @@
     justify-content: space-between;
 }
 
+.profile .profile_text span {
+    margin-top: 0.6em;
+}
+
 .profile .profile_text span p {
     margin: 0 0 1em 0;
 }

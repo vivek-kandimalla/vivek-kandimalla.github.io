@@ -9,6 +9,7 @@
     font-size: var(--homesize);
     line-height: var(--lineheight);
     padding: var(--gap) var(--gap) calc(var(--gap) * 2);
+    text-align: justify;
 }
 
 .profile .profile_inner {
